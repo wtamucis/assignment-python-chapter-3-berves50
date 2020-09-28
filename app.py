@@ -1,5 +1,5 @@
 # Feedback to Brittany: 
-# This code generates several syntax errors and push again. Please run the code and fix each syntax erorr. 
+# This code generates several syntax errors. Please run the code and fix each syntax errors. Then, resubmit for grading. 
 # sometimes you are missing an equal sign, sometimes indentation is incorrect. Cheers, Dr. Humpherys
 
 # Chapter 3.1 Introduction, no code
