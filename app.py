@@ -1,3 +1,7 @@
+# Feedback to Brittany: 
+# This code generates several syntax errors and push again. Please run the code and fix each syntax erorr. 
+# sometimes you are missing an equal sign, sometimes indentation is incorrect. Cheers, Dr. Humpherys
+
 # Chapter 3.1 Introduction, no code
 # Chapter 3.2 Conditional Statments
 print("Chapter 3.2 Conditional Statements")
